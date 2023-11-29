@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @mfadlanabdillah
-- 👀 I’m interested in Mobile App Development
-- 🌱 I’m currently learning Flutter
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in Web App Development
+- 🌱 I’m currently learning React and Golang
 - 📫 How to reach me : mfadlanabdillah@outlook.com
 
 <!---
