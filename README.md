@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @mfadlanabdillah
 - 👀 I’m interested in Web App Development
-- 🌱 I’m currently learning React and Golang
 - 📫 How to reach me : mfadlanabdillah@outlook.com
 
 <!---
